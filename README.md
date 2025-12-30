@@ -83,8 +83,6 @@ MentorHer is a platform connecting women professionals with experienced industry
 ---
 
 ### Profiles
-#### Mentee Form
-![Mentee Form](https://github.com/user-attachments/assets/f17b094c-cd20-4273-b468-1691ecd98503)
 
 #### Mentee Profile
 ![Mentee Profile](https://github.com/user-attachments/assets/e49eb455-0368-4dc7-8e66-4c14a3d2bbbd)
