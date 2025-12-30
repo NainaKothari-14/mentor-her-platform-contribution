@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## MentorHer: Women in Tech Mentorship Platform
 ## Project Deployed Link (Fully Functional with Backend): https://mentorher-frontend.vercel.app/ 
 ### Updated Youtube Video with no audio issues  
@@ -140,3 +141,7 @@
 
 
 
+=======
+# mentor-her-platform-contribution
+Group project | Women-in-tech mentorship platform | My contribution using Next.js &amp; TypeScript
+>>>>>>> ca93861954cf27408f23b6424e5330a9fbe24744
